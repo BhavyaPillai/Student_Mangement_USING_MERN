@@ -77,28 +77,6 @@ const searchStudents = async (req, res) => {
     res.status(500).json({ message: "Error searching students" });
   }
 };
-
-// SEARCH STUDENTS
-// const searchStudents = async (req, res) => {
-//   try {
-//     const q = req.query.query || "";
-
-//     const students = await Student.find({
-//       $or: [
-//         { name: { $regex: q, $options: "i" } },
-//         { email: { $regex: q, $options: "i" } },
-//         { phone: { $regex: q, $options: "i" } },
-//         { course: { $regex: q, $options: "i" } }
-//       ]
-//     });
-
-//     res.json(students);
-//   } catch (error) {
-//     console.log(error);
-//     res.status(500).json({ message: "Error searching students" });
-//   }
-// };
-
 module.exports = {
   createStudent,
   getStudents,
@@ -107,4 +85,5 @@ module.exports = {
   deleteStudent,
   searchStudents,
 };
+
 
