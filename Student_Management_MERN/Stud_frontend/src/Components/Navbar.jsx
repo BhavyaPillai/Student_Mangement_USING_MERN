@@ -41,17 +41,3 @@ export default Navbar;
 
 
 
-
-// import React from "react";
-// import { Link } from "react-router-dom";
-
-// const Navbar = () => {
-//   return (
-//     <nav className="navbar navbar-dark bg-dark px-4">
-//       <Link className="navbar-brand" to="/">Student Manager</Link>
-//       <Link className="btn btn-success" to="/add">Add Student</Link>
-//     </nav>
-//   );
-// };
-
-// export default Navbar;
