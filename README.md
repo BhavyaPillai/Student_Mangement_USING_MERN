@@ -28,7 +28,7 @@ CORS
 <img width="1919" height="950" alt="Home jsx" src="https://github.com/user-attachments/assets/c33c240a-9178-40e4-b7fc-4c316baf585e" />
 
 ### ➕ Add Student
-<img width="1875" height="876" alt="addStudent jsx" src="https://github.com/user-attachments/assets/58ac34ae-972a-4395-b570-d82835ea6b9a" />
+<img width="1890" height="874" alt="AddStudent,jsx" src="https://github.com/user-attachments/assets/f6a3e72b-2cf2-4a2e-b7bf-5b1d3e2cdfa0" />
 
 ### ➕ Search Student
 <img width="1919" height="879" alt="search jsx" src="https://github.com/user-attachments/assets/94210d43-15c8-43f0-8673-bfde4b14621c" />
